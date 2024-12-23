@@ -130,3 +130,7 @@ via*.json
 !/keyboards/zsa/**/keymaps/default/**
 !/keyboards/zsa/**/keymaps/oryx
 !/keyboards/zsa/**/keymaps/oryx/**
+
+# Adding my_layout to NOT be ignored
+!/keyboards/zsa/moonlander/keymaps/my_layout
+!/keyboards/zsa/moonlander/keymaps/my_layout/**
